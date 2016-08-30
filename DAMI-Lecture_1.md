@@ -1,4 +1,4 @@
-# Books :
+# Books
 - Introduction to Machine Learning (third edition)
 - An Introduction to Statistical Learning with applications in R
 
