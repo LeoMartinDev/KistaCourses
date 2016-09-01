@@ -1,4 +1,4 @@
-# Pourquoi le R c'est de la merde ?
+# Why does R sucks ?
 
 http://andrewgelman.com/2015/12/23/r-sucks-2/
 
